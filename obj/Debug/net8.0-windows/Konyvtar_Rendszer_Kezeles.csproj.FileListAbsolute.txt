@@ -1,0 +1,245 @@
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Beadandó\W\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.exe
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Beadandó\W\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.deps.json
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Beadandó\W\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.runtimeconfig.json
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Beadandó\W\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.dll
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Beadandó\W\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.pdb
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Beadandó\W\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.csproj.GenerateResource.cache
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Beadandó\W\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.GeneratedMSBuildEditorConfig.editorconfig
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Beadandó\W\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.AssemblyInfoInputs.cache
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Beadandó\W\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.AssemblyInfo.cs
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Beadandó\W\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.csproj.CoreCompileInputs.cache
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Beadandó\W\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.dll
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Beadandó\W\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\refint\Konyvtar_Rendszer_Kezeles.dll
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Beadandó\W\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.pdb
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Beadandó\W\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.genruntimeconfig.cache
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Beadandó\W\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\ref\Konyvtar_Rendszer_Kezeles.dll
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Beadandó\W\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.Bejelentkezés.resources
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Beadandó\W\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.Properties.Resources.resources
+C:\Users\Kulyó Tomi\Desktop\Egyetem\Progtech\beadandó\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.exe
+C:\Users\Kulyó Tomi\Desktop\Egyetem\Progtech\beadandó\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.dll
+C:\Users\Kulyó Tomi\Desktop\Egyetem\Progtech\beadandó\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.Bejelentkezés.resources
+C:\Users\Kulyó Tomi\Desktop\Egyetem\Progtech\beadandó\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.Form1.resources
+C:\Users\Kulyó Tomi\Desktop\Egyetem\Progtech\beadandó\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.Főablak.resources
+C:\Users\Kulyó Tomi\Desktop\Egyetem\Progtech\beadandó\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.Properties.Resources.resources
+C:\Users\Kulyó Tomi\Desktop\Egyetem\Progtech\beadandó\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.csproj.GenerateResource.cache
+C:\Users\Kulyó Tomi\Desktop\Egyetem\Progtech\beadandó\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kulyó Tomi\Desktop\Egyetem\Progtech\beadandó\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.AssemblyInfoInputs.cache
+C:\Users\Kulyó Tomi\Desktop\Egyetem\Progtech\beadandó\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.AssemblyInfo.cs
+C:\Users\Kulyó Tomi\Desktop\Egyetem\Progtech\beadandó\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.csproj.CoreCompileInputs.cache
+C:\Users\Kulyó Tomi\Desktop\Egyetem\Progtech\beadandó\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.dll
+C:\Users\Kulyó Tomi\Desktop\Egyetem\Progtech\beadandó\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\refint\Konyvtar_Rendszer_Kezeles.dll
+C:\Users\Kulyó Tomi\Desktop\Egyetem\Progtech\beadandó\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.pdb
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Beadandó\W\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.Főablak.resources
+C:\Users\Kulyó Tomi\Desktop\Egyetem\Progtech\beadandó\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.deps.json
+C:\Users\Kulyó Tomi\Desktop\Egyetem\Progtech\beadandó\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.runtimeconfig.json
+C:\Users\Kulyó Tomi\Desktop\Egyetem\Progtech\beadandó\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.pdb
+C:\Users\Kulyó Tomi\Desktop\Egyetem\Progtech\beadandó\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.genruntimeconfig.cache
+C:\Users\Kulyó Tomi\Desktop\Egyetem\Progtech\beadandó\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\ref\Konyvtar_Rendszer_Kezeles.dll
+C:\Users\Kulyó Tomi\Desktop\Egyetem\Progtech\beadandó\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.Irányítópult.resources
+C:\Users\Kulyó Tomi\Desktop\Egyetem\Progtech\beadandó\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.KönyvKiadása.resources
+C:\Users\Kulyó Tomi\Desktop\Egyetem\Progtech\beadandó\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.VisszaHozottKönyvek.resources
+C:\Users\akosk\OneDrive\Képek\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.exe
+C:\Users\akosk\OneDrive\Képek\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.deps.json
+C:\Users\akosk\OneDrive\Képek\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.runtimeconfig.json
+C:\Users\akosk\OneDrive\Képek\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.dll
+C:\Users\akosk\OneDrive\Képek\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.pdb
+C:\Users\akosk\OneDrive\Képek\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.Bejelentkezés.resources
+C:\Users\akosk\OneDrive\Képek\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.Főablak.resources
+C:\Users\akosk\OneDrive\Képek\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.iranyitopultAblak.resources
+C:\Users\akosk\OneDrive\Képek\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.konyHozzaadasaAblak.resources
+C:\Users\akosk\OneDrive\Képek\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.kiadottKonyvAblak.resources
+C:\Users\akosk\OneDrive\Képek\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.Properties.Resources.resources
+C:\Users\akosk\OneDrive\Képek\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.visszahozottKonyvAblak.resources
+C:\Users\akosk\OneDrive\Képek\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.csproj.GenerateResource.cache
+C:\Users\akosk\OneDrive\Képek\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akosk\OneDrive\Képek\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.AssemblyInfoInputs.cache
+C:\Users\akosk\OneDrive\Képek\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.AssemblyInfo.cs
+C:\Users\akosk\OneDrive\Képek\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.csproj.CoreCompileInputs.cache
+C:\Users\akosk\OneDrive\Képek\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.dll
+C:\Users\akosk\OneDrive\Képek\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\refint\Konyvtar_Rendszer_Kezeles.dll
+C:\Users\akosk\OneDrive\Képek\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.pdb
+C:\Users\akosk\OneDrive\Képek\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.genruntimeconfig.cache
+C:\Users\akosk\OneDrive\Képek\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\ref\Konyvtar_Rendszer_Kezeles.dll
+C:\Users\akosk\OneDrive\Képek\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.Kezdőlap.resources
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Beadandó\W\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.iranyitopultAblak.resources
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Beadandó\W\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.konyHozzaadasaAblak.resources
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Beadandó\W\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.kiadottKonyvAblak.resources
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Beadandó\W\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.visszahozottKonyvAblak.resources
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Beadandó\W\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.Kezdőlap.resources
+C:\Users\Kulyó Tomi\Desktop\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.exe
+C:\Users\Kulyó Tomi\Desktop\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.deps.json
+C:\Users\Kulyó Tomi\Desktop\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.runtimeconfig.json
+C:\Users\Kulyó Tomi\Desktop\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.dll
+C:\Users\Kulyó Tomi\Desktop\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.pdb
+C:\Users\Kulyó Tomi\Desktop\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.Properties.Resources.resources
+C:\Users\Kulyó Tomi\Desktop\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.iranyitopultAblak.resources
+C:\Users\Kulyó Tomi\Desktop\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.konyHozzaadasaAblak.resources
+C:\Users\Kulyó Tomi\Desktop\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.kiadottKonyvAblak.resources
+C:\Users\Kulyó Tomi\Desktop\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.visszahozottKonyvAblak.resources
+C:\Users\Kulyó Tomi\Desktop\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.Bejelentkezés.resources
+C:\Users\Kulyó Tomi\Desktop\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.Főablak.resources
+C:\Users\Kulyó Tomi\Desktop\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.Kezdőlap.resources
+C:\Users\Kulyó Tomi\Desktop\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.csproj.GenerateResource.cache
+C:\Users\Kulyó Tomi\Desktop\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kulyó Tomi\Desktop\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.AssemblyInfoInputs.cache
+C:\Users\Kulyó Tomi\Desktop\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.AssemblyInfo.cs
+C:\Users\Kulyó Tomi\Desktop\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.csproj.CoreCompileInputs.cache
+C:\Users\Kulyó Tomi\Desktop\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.dll
+C:\Users\Kulyó Tomi\Desktop\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\refint\Konyvtar_Rendszer_Kezeles.dll
+C:\Users\Kulyó Tomi\Desktop\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.pdb
+C:\Users\Kulyó Tomi\Desktop\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.genruntimeconfig.cache
+C:\Users\Kulyó Tomi\Desktop\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\ref\Konyvtar_Rendszer_Kezeles.dll
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.exe
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.deps.json
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.runtimeconfig.json
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.dll
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.pdb
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.Properties.Resources.resources
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.iranyitopultAblak.resources
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.konyHozzaadasaAblak.resources
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.kiadottKonyvAblak.resources
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.visszahozottKonyvAblak.resources
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.Bejelentkezés.resources
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.Főablak.resources
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.Kezdőlap.resources
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.csproj.GenerateResource.cache
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.GeneratedMSBuildEditorConfig.editorconfig
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.AssemblyInfoInputs.cache
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.AssemblyInfo.cs
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.csproj.CoreCompileInputs.cache
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.dll
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\refint\Konyvtar_Rendszer_Kezeles.dll
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.pdb
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.genruntimeconfig.cache
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\ref\Konyvtar_Rendszer_Kezeles.dll
+C:\Users\Kulyó Tomi\Desktop\2024.05.27 2\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.Properties.Resources.resources
+C:\Users\Kulyó Tomi\Desktop\2024.05.27 2\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.iranyitopultAblak.resources
+C:\Users\Kulyó Tomi\Desktop\2024.05.27 2\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.konyHozzaadasaAblak.resources
+C:\Users\Kulyó Tomi\Desktop\2024.05.27 2\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.kiadottKonyvAblak.resources
+C:\Users\Kulyó Tomi\Desktop\2024.05.27 2\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.visszahozottKonyvAblak.resources
+C:\Users\Kulyó Tomi\Desktop\2024.05.27 2\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.Bejelentkezés.resources
+C:\Users\Kulyó Tomi\Desktop\2024.05.27 2\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.Főablak.resources
+C:\Users\Kulyó Tomi\Desktop\2024.05.27 2\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.Kezdőlap.resources
+C:\Users\Kulyó Tomi\Desktop\2024.05.27 2\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.csproj.GenerateResource.cache
+C:\Users\Kulyó Tomi\Desktop\2024.05.27 2\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kulyó Tomi\Desktop\2024.05.27 2\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.AssemblyInfoInputs.cache
+C:\Users\Kulyó Tomi\Desktop\2024.05.27 2\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.AssemblyInfo.cs
+C:\Users\Kulyó Tomi\Desktop\2024.05.27 2\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.csproj.CoreCompileInputs.cache
+C:\Users\Kulyó Tomi\Desktop\2024.05.27 2\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.dll
+C:\Users\Kulyó Tomi\Desktop\2024.05.27 2\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\refint\Konyvtar_Rendszer_Kezeles.dll
+C:\Users\Kulyó Tomi\Desktop\2024.05.27 2\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.pdb
+C:\Users\Kulyó Tomi\Desktop\2024.05.27 2\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.exe
+C:\Users\Kulyó Tomi\Desktop\2024.05.27 2\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.deps.json
+C:\Users\Kulyó Tomi\Desktop\2024.05.27 2\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.runtimeconfig.json
+C:\Users\Kulyó Tomi\Desktop\2024.05.27 2\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.dll
+C:\Users\Kulyó Tomi\Desktop\2024.05.27 2\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.pdb
+C:\Users\Kulyó Tomi\Desktop\2024.05.27 2\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.genruntimeconfig.cache
+C:\Users\Kulyó Tomi\Desktop\2024.05.27 2\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\ref\Konyvtar_Rendszer_Kezeles.dll
+C:\Users\Kállai Ákos\Pictures\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Kállai Ákos\Pictures\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Kállai Ákos\Pictures\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Kállai Ákos\Pictures\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\NLog.config
+C:\Users\Kállai Ákos\Pictures\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.exe
+C:\Users\Kállai Ákos\Pictures\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.deps.json
+C:\Users\Kállai Ákos\Pictures\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.runtimeconfig.json
+C:\Users\Kállai Ákos\Pictures\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.dll
+C:\Users\Kállai Ákos\Pictures\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.pdb
+C:\Users\Kállai Ákos\Pictures\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\Castle.Core.dll
+C:\Users\Kállai Ákos\Pictures\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\Moq.dll
+C:\Users\Kállai Ákos\Pictures\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\NLog.dll
+C:\Users\Kállai Ákos\Pictures\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\xunit.abstractions.dll
+C:\Users\Kállai Ákos\Pictures\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\xunit.assert.dll
+C:\Users\Kállai Ákos\Pictures\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\xunit.core.dll
+C:\Users\Kállai Ákos\Pictures\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\xunit.execution.dotnet.dll
+C:\Users\Kállai Ákos\Pictures\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.csproj.AssemblyReference.cache
+C:\Users\Kállai Ákos\Pictures\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.Properties.Resources.resources
+C:\Users\Kállai Ákos\Pictures\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.iranyitopultAblak.resources
+C:\Users\Kállai Ákos\Pictures\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.konyHozzaadasaAblak.resources
+C:\Users\Kállai Ákos\Pictures\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.kiadottKonyvAblak.resources
+C:\Users\Kállai Ákos\Pictures\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.visszahozottKonyvAblak.resources
+C:\Users\Kállai Ákos\Pictures\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.Bejelentkezés.resources
+C:\Users\Kállai Ákos\Pictures\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.Főablak.resources
+C:\Users\Kállai Ákos\Pictures\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.Kezdőlap.resources
+C:\Users\Kállai Ákos\Pictures\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.csproj.GenerateResource.cache
+C:\Users\Kállai Ákos\Pictures\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kállai Ákos\Pictures\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.AssemblyInfoInputs.cache
+C:\Users\Kállai Ákos\Pictures\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.AssemblyInfo.cs
+C:\Users\Kállai Ákos\Pictures\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.csproj.CoreCompileInputs.cache
+C:\Users\Kállai Ákos\Pictures\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.csproj.CopyComplete
+C:\Users\Kállai Ákos\Pictures\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.dll
+C:\Users\Kállai Ákos\Pictures\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\refint\Konyvtar_Rendszer_Kezeles.dll
+C:\Users\Kállai Ákos\Pictures\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.pdb
+C:\Users\Kállai Ákos\Pictures\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.genruntimeconfig.cache
+C:\Users\Kállai Ákos\Pictures\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\ref\Konyvtar_Rendszer_Kezeles.dll
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Beadandó\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\xunit.runner.visualstudio.testadapter.dll
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Beadandó\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\xunit.runner.reporters.netcoreapp10.dll
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Beadandó\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\xunit.runner.utility.netcoreapp10.dll
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Beadandó\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\NLog.config
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Beadandó\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.exe
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Beadandó\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.deps.json
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Beadandó\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.runtimeconfig.json
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Beadandó\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.dll
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Beadandó\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.pdb
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Beadandó\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\Castle.Core.dll
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Beadandó\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\Moq.dll
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Beadandó\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\NLog.dll
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Beadandó\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\xunit.abstractions.dll
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Beadandó\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\xunit.assert.dll
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Beadandó\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\xunit.core.dll
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Beadandó\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\xunit.execution.dotnet.dll
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Beadandó\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.csproj.AssemblyReference.cache
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Beadandó\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.Properties.Resources.resources
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Beadandó\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.iranyitopultAblak.resources
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Beadandó\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.konyHozzaadasaAblak.resources
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Beadandó\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.kiadottKonyvAblak.resources
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Beadandó\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.visszahozottKonyvAblak.resources
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Beadandó\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.Bejelentkezés.resources
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Beadandó\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.Főablak.resources
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Beadandó\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.Kezdőlap.resources
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Beadandó\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.csproj.GenerateResource.cache
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Beadandó\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.GeneratedMSBuildEditorConfig.editorconfig
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Beadandó\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.AssemblyInfoInputs.cache
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Beadandó\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.AssemblyInfo.cs
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Beadandó\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.csproj.CoreCompileInputs.cache
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Beadandó\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.csproj.CopyComplete
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Beadandó\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.dll
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Beadandó\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\refint\Konyvtar_Rendszer_Kezeles.dll
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Beadandó\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.pdb
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Beadandó\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.genruntimeconfig.cache
+E:\Egyetemi tanulmányok\4. félév\Programozási technológiák\Beadandó\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\ref\Konyvtar_Rendszer_Kezeles.dll
+C:\Users\Kulyó Tomi\Desktop\végleges\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Kulyó Tomi\Desktop\végleges\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Kulyó Tomi\Desktop\végleges\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Kulyó Tomi\Desktop\végleges\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\NLog.config
+C:\Users\Kulyó Tomi\Desktop\végleges\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.exe
+C:\Users\Kulyó Tomi\Desktop\végleges\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.deps.json
+C:\Users\Kulyó Tomi\Desktop\végleges\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.runtimeconfig.json
+C:\Users\Kulyó Tomi\Desktop\végleges\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.dll
+C:\Users\Kulyó Tomi\Desktop\végleges\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.pdb
+C:\Users\Kulyó Tomi\Desktop\végleges\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\Castle.Core.dll
+C:\Users\Kulyó Tomi\Desktop\végleges\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\Moq.dll
+C:\Users\Kulyó Tomi\Desktop\végleges\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\NLog.dll
+C:\Users\Kulyó Tomi\Desktop\végleges\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\xunit.abstractions.dll
+C:\Users\Kulyó Tomi\Desktop\végleges\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\xunit.assert.dll
+C:\Users\Kulyó Tomi\Desktop\végleges\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\xunit.core.dll
+C:\Users\Kulyó Tomi\Desktop\végleges\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\bin\Debug\net8.0-windows\xunit.execution.dotnet.dll
+C:\Users\Kulyó Tomi\Desktop\végleges\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.csproj.AssemblyReference.cache
+C:\Users\Kulyó Tomi\Desktop\végleges\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.Properties.Resources.resources
+C:\Users\Kulyó Tomi\Desktop\végleges\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.iranyitopultAblak.resources
+C:\Users\Kulyó Tomi\Desktop\végleges\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.konyHozzaadasaAblak.resources
+C:\Users\Kulyó Tomi\Desktop\végleges\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.kiadottKonyvAblak.resources
+C:\Users\Kulyó Tomi\Desktop\végleges\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.visszahozottKonyvAblak.resources
+C:\Users\Kulyó Tomi\Desktop\végleges\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.Bejelentkezés.resources
+C:\Users\Kulyó Tomi\Desktop\végleges\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.Főablak.resources
+C:\Users\Kulyó Tomi\Desktop\végleges\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.Kezdőlap.resources
+C:\Users\Kulyó Tomi\Desktop\végleges\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.csproj.GenerateResource.cache
+C:\Users\Kulyó Tomi\Desktop\végleges\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kulyó Tomi\Desktop\végleges\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.AssemblyInfoInputs.cache
+C:\Users\Kulyó Tomi\Desktop\végleges\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.AssemblyInfo.cs
+C:\Users\Kulyó Tomi\Desktop\végleges\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.csproj.CoreCompileInputs.cache
+C:\Users\Kulyó Tomi\Desktop\végleges\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar.491FA8BB.Up2Date
+C:\Users\Kulyó Tomi\Desktop\végleges\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.dll
+C:\Users\Kulyó Tomi\Desktop\végleges\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\refint\Konyvtar_Rendszer_Kezeles.dll
+C:\Users\Kulyó Tomi\Desktop\végleges\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.pdb
+C:\Users\Kulyó Tomi\Desktop\végleges\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\Konyvtar_Rendszer_Kezeles.genruntimeconfig.cache
+C:\Users\Kulyó Tomi\Desktop\végleges\Konyvtar_Rendszer_Kezeles\Konyvtar_Rendszer_Kezeles\obj\Debug\net8.0-windows\ref\Konyvtar_Rendszer_Kezeles.dll
